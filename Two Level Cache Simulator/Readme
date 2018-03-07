@@ -1,0 +1,15 @@
+
+compile using command:
+
+g++ cachesimulator.cpp -o cachesim
+
+Run using :
+
+./cachesim argv[1] argv[2]
+
+where arg1 has to be cache configuration file and arg2 has to be trace file.
+
+Note:
+
+I generated L1cachefstate.txt and L2cachefstate.txt just for my testing purposes.You can ignore them.
+

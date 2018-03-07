@@ -1,0 +1,9 @@
+compile using command:
+
+g++ branchsimulator.cpp -o branchsimulator.out
+
+Run using :
+
+./branchsimulator.out argv[1] argv[2]
+
+where arg1 has to be 'm' configuration file and arg2 has to be trace file.
